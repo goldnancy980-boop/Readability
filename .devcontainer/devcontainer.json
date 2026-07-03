@@ -1,0 +1,4 @@
+{
+  "name": "CS50 Codespace",
+  "postCreateCommand": "curl -s https://packagecloud.io/install/repositories/cs50/repo/script.deb.sh | sudo bash && sudo apt-get install -y libcs50"
+}
